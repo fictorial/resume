@@ -5,7 +5,7 @@
 - creative problem solver 
 - crystal clear communicator
  
-# EXPERIENCE
+# EXPERIENCE
 
 ## CTO & Lead Developer @ The Expedition Company (2018-2019)
 - Lead a remote team of 4-6 junior developers on web and mobile client projects
@@ -44,7 +44,7 @@
 - Developed reusable DHTML/Javascript library ala Prototype 
 - Developed internal tools using REXX, Net.Data, DB2, and Lotus Notes 
  
-# EDUCATION  
+# EDUCATION
 
 ## Master of Science in Computer Science 
 - Pace University, New York, 2007
